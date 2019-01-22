@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^/home /index.html [NC,QSA,L]
+RewriteRule ^/servicos /index-2.html [NC,QSA,L]
+RewriteRule ^/servicos /index-3.html [NC,QSA,L]
+RewriteRule ^/equipamentos /index-4.html [NC,QSA,L]
+RewriteRule ^/contato /index-5.html [NC,QSA,L]
